@@ -6,7 +6,7 @@ Passionate about technology, enthusiast for deep learning, machine learning, AI,
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=kelsenlima)
 
-[<img src="https://img.shields.io/badge/wordpress-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://planningit.wordpress.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kelsenlima/)
+[<img src="https://img.shields.io/badge/wordpress-%2312100E.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />](https://planningit.wordpress.com/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kelsenlima/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelsenlima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
